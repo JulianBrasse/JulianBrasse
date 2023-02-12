@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;700");
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: "IBM Plex Sans", sans-serif;
+	font-weight: 400;
+}
