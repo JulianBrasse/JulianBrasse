@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-25 -125 400 400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 -125 400 400">
 	<circle fill="royalblue" cx="150" cy="75" r="200"/>
 	<polygon fill="red" points="0,0 100,25 100,125 0,150"/>
 	<polygon fill="white" points="100,25 300,75 100,125"/>
