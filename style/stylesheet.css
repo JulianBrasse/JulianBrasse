@@ -61,6 +61,10 @@ div {
 	height: 50px;
 }
 
+. socials {
+	margin: 0px -10px;
+}
+
 .socials a, .socials a img {
 	height: 25px;
 }
