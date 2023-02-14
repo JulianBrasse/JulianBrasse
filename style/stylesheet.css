@@ -61,6 +61,6 @@ div {
 	height: 50px;
 }
 
-.socials a img {
+.socials a, .socials a img {
 	height: 25px;
 }
