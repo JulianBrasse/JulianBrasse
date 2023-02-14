@@ -45,6 +45,10 @@ header, footer {
 	background-color: royalblue;
 }
 
+main {
+	padding: 20px;
+}
+
 div {
 	display: flex;
 }
@@ -61,7 +65,7 @@ div {
 	height: 50px;
 }
 
-. socials {
+.socials {
 	margin: 0px -10px;
 }
 
