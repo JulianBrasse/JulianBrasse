@@ -8,7 +8,7 @@
 	text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6, .logo p {
+h1, h2, h3, h4, h5, h6, .logo {
 	font-weight: 700
 }
 
@@ -16,11 +16,11 @@ h1 {
 	font-size: 40px;
 }
 
-h2, .logo p {
+h2, .logo {
 	font-size: 30px;
 }
 
-h3 {
+h3, nav a {
 	font-size: 25px;
 }
 
@@ -41,12 +41,24 @@ header, footer {
 	background-color: royalblue;
 }
 
+nav {
+	padding: 0px 20px 20px 20px;
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	background-color: royalblue;
+}
+
 section {
 	padding: 20px;
 }
 
 div {
 	display: flex;
+}
+
+img {
+	height: 100%;
 }
 
 .logo {
@@ -64,7 +76,7 @@ div {
 	margin: 0px -10px;
 }
 
-.socials a, .socials a img {
-	margin: 0px 5px;
+.socials a {
+	margin: 0px 10px;
 	height: 25px;
 }
