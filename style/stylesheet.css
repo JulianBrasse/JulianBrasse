@@ -42,10 +42,7 @@ header, footer {
 }
 
 nav {
-	padding: 0px 20px 20px 20px;
 	display: flex;
-	color: white;
-	background-color: royalblue;
 }
 
 header *, footer *, nav * {
