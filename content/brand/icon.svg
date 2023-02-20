@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 -125 400 400">
-	<rect fill="rgb(0 114 206)" x="-50" y="-125" width="400" height="400"/>
+	<circle fill="rgb(0 114 206)" cx="150" cy="75" r="200"/>
 	<polygon fill="rgb(218 41 28)" points="0,0 100,25 100,125 0,150"/>
 	<polygon fill="rgb(255 255 255)" points="100,25 300,75 100,125"/>
 	<polygon fill="rgb(0 50 160)" points="100,25 130,32.5 130,60 240,60 300,75 240,90 130,90 130,117.5 100,125"/>
