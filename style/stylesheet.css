@@ -56,6 +56,18 @@ nav a {
 section {
 	padding: 20px;
 }
+section div {
+	position: relative;
+	top: 10vh;
+	left: 10vh;
+	box-sizing: border-box;
+	flex-direction: column;
+	justify-content: space-evenly;
+	padding: 20px;
+	width: 60vw;
+	height: 60vh;
+	background-color: white;
+}
 
 div {
 	display: flex;
