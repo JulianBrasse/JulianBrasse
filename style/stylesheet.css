@@ -91,6 +91,13 @@ img {
 	display: none;
 }
 
+.hero {
+	padding: 20px;
+	height: 80vh;
+	background-size: cover;
+	background-image: url("/ych/content/brand/image_large.jpg");
+}
+
 .socials {
 	margin: 0px -10px;
 }
